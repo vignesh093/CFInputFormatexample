@@ -1,1 +1,1 @@
-# CFInputFormatexample
+# A sample program for combinefileinputformat
